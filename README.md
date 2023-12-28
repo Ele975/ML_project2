@@ -1,13 +1,14 @@
 # AML_project2
-Erifeoluwa:
+
+# Erifeoluwa:
 - 
 
 
-Elena:
+# Elena:
 - description dataset
 - Word2Vec embedding
 
 
 
-Zechen:
+# Zechen:
 -
