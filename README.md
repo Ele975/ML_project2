@@ -5,8 +5,9 @@
 
 
 # Elena:
-- description dataset
+- description dataset and analysis
 - Word2Vec embedding
+- voice interaction
 
 
 
